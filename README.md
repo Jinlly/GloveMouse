@@ -48,7 +48,7 @@ GloveMouse is an all-in-one wearable device powered by an **ESP32** microcontrol
 
 ## 📸 Concept Rendering
 
-![Concept Rendering](/Concept_Renderings/conceptRenderings1.jpg)
+![Concept Rendering](/concept_renderings/concept1.jpg)
 
 
 ## 📦 Status
